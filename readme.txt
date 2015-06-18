@@ -36,11 +36,11 @@ function custom_sewn_logged_in_redirect_slug()
 {
 	return 'post-slug';
 }
-'
+`
 
-## Sewn In Notification Box Support
+= Sewn In Notification Box Support =
 
-If you install the Sewn In Notification Box, this plugin will start using that. This is handy to keep all of your notifications in a centralized location.
+If you install the <a href="https://wordpress.org/plugins/sewn-in-notifications/">Sewn In Notification Box</a>, this plugin will start using that. This is handy to keep all of your notifications in a centralized location.
 
 == Installation ==
 
